@@ -7,16 +7,22 @@ It's perfect for beginners to understand Flutter UI, state management, and basic
 
 ## 🚀 Features
 
-- Add new tasks 🟢  
-- Delete tasks ❌  
-- Beautiful minimal UI 💡  
+- Add new tasks 🟢
+- Delete tasks ❌
+- Beautiful minimal UI 💡
 - Built using beginner-friendly Flutter code
 
 ---
 
 ## 📱 Screenshots
 
-> Add screenshots of your app running (optional for now)
+### 🧾 Home Screen
+
+![Home Screen](assets/ss2.jpg)
+
+### 📝 Adding a Task
+
+![Add Task Screen](assets/ss1.jpg)
 
 ---
 
@@ -39,5 +45,7 @@ It's perfect for beginners to understand Flutter UI, state management, and basic
 ## 🛠️ How to Run the App
 
 1. Clone the repo:
+
 ```bash
 git clone https://github.com/your-username/todo_flutter_app.git
+```
